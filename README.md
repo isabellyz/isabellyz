@@ -1,7 +1,7 @@
 Olá mundo! Eu sou a Isabelly Andrade...
 
   👩🏻‍💻 Desenvolvedora HTML; <br>
-  👩🏻‍🎓Aprimorando meus conhecimentos em um curso de desenvolvimento de sistemas; <br>
+  👩🏻‍🎓Aprimorando conhecimentos em um curso de desenvolvimento de sistemas no <a href="https://www.sp.senai.br/">SENAI</a>; <br>
   📚 Estudando PHP e banco de dados.
   
   <hr>
