@@ -16,4 +16,5 @@ Olá mundo! Eu sou a Isabelly Andrade...
     <img alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img alt="Canva" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
     <img alt="Gimp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
+    <img alt="Word Press" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   </div>
