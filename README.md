@@ -1,8 +1,8 @@
 Olá mundo! Eu sou a Isabelly Andrade...
 
   👩🏻‍💻 Desenvolvedora HTML; <br>
-  👩🏻‍🎓Aprimorando conhecimentos em um curso de desenvolvimento de sistemas no SENAI; <br>
-  📚 Iniciando os estudos em python. 
+  👩🏻‍🎓Técnica em Desenvolvimento de Sistemas no SENAI; <br>
+ 
   
   <hr>
   Blibliotecas, linguagens e plataformas utilizadas: <br> 
