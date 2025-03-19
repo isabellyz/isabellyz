@@ -3,6 +3,7 @@ Olá mundo! Eu sou a Isabelly Andrade...
   👩🏻‍💻 Desenvolvedora Web; <br>
   👩🏻‍🎓Técnica em Desenvolvimento de Sistemas no SENAI e Cursando Desenvolvimento de Software pela FATEC; <br>
   📚Sempre a procura de novos desafios! <br>
+  📚Me contate pelo LinkedIn: https://www.linkedin.com/in/isabelly-andrade-110470291/ <br>
  
   
   <hr>
