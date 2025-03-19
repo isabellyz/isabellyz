@@ -1,7 +1,8 @@
 Olá mundo! Eu sou a Isabelly Andrade...
 
-  👩🏻‍💻 Desenvolvedora HTML; <br>
-  👩🏻‍🎓Técnica em Desenvolvimento de Sistemas no SENAI; <br>
+  👩🏻‍💻 Desenvolvedora Web; <br>
+  👩🏻‍🎓Técnica em Desenvolvimento de Sistemas no SENAI e Cursando Desenvolvimento de Software pela FATEC; <br>
+  📚Sempre a procura de novos desafios! <br>
  
   
   <hr>
